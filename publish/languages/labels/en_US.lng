@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="Frameless">
+    <element name="HomePageSubtitle" value="Team Knowledge Base"></element>
+  </section>
+</configuration>

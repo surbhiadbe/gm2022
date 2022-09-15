@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<glossgroup id="Fintec">          
+<title>Glossary Definitions</title>        
+<glossentry id="Fintec_Blockchain">
+<glossterm>Blockchain</glossterm>
+<glossdef>A type of distributed ledger. It requires entries to be confirmed and encrypted by an advanced cryptography. This makes the entries very difficult to change or hack.</glossdef></glossentry>
+<glossentry id="Fintec_Cryptocurrency">
+<glossterm>Cryptocurrency</glossterm>
+<glossdef>An asset of a decentralized network that can be traded and used as as a medium of exchange, and used as a store of value. </glossdef></glossentry>
+<glossentry id="Fintec_Cybersecurity">
+<glossterm>Cybersecurity</glossterm>
+<glossdef>Cyberhacking has increased rapidly. An important way to protect against this is artificial intelligence (AI) techniques which assist security management by staying abreast of the latest developments.</glossdef></glossentry>
+<glossentry id="Fintec_DeFi_">
+<glossterm>DeFi </glossterm>
+<glossdef>Decentralized finance is finance not dependent on central financial exchanges, or banks. They can be used with blockchains for financial functions and depend on the code of smart contracts.</glossdef></glossentry>
+<glossentry id="Fintec_Fiat_Currency ">
+<glossterm>Fiat Currency </glossterm>
+<glossdef>Sometimes called &quot;real money&quot;, fiat currency is government-issued and not backed by a commodity, such as gold.</glossdef></glossentry>
+<glossentry id="Fintec_Mining">
+<glossterm>Mining</glossterm>
+<glossdef>A process by which some digital assets, are entered into circulation. This validates and adds transactions to the blockchain and brings digital assets into circulation.</glossdef></glossentry>
+<glossentry id="Fintec_Private_Key">
+<glossterm>Private Key</glossterm>
+<glossdef>A personal code which allows access to a digital wallet. Without it, the wallet and related digital assets cannot be accessed (even by the owner).</glossdef></glossentry>
+<glossentry id="Fintec_Public_Key">
+<glossterm>Public Key</glossterm>
+<glossdef>The code for your digital wallet. The public key is shared with others so they can send digital assets.</glossdef></glossentry>
+<glossentry id="Fintec_Purchase-to-pay">
+<glossterm>Purchase-to-pay</glossterm>
+<glossdef>Purchase-to-pay, (P2P), can cover things like, purchasing, receiving and paying for items and services. They are automated processes that reduce labor costs.</glossdef></glossentry>
+<glossentry id="Fintec_Regtech">
+<glossterm>Regtech</glossterm>
+<glossdef>RegTech (Regulatory Technology) provides a way to manage regulatory compliance by applying AI algorithms. These handle client identification, transaction monitoring, regulatory analysis and reporting.</glossdef></glossentry>
+<glossentry id="Fintec_Tokens">
+<glossterm>Tokens</glossterm>
+<glossdef>Tokens are used in blockchain networks. They are built on top of those blockchains.</glossdef></glossentry>
+<glossentry id="Fintec_Wallet">
+<glossterm>Wallet</glossterm>
+<glossdef>A digital wallet is an app that keeps track of personal finances and budgeting.</glossdef></glossentry>
+<glossentry id="Fintec_Peer-to-peer">
+<glossterm>Peer-to-peer</glossterm>
+<glossdef>A decentralized system whereby two persons interact with each other without a third-party in between. </glossdef></glossentry></glossgroup>

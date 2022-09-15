@@ -1,0 +1,71 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap");
+body {
+  font-family: Montserrat;
+  font-size: 11pt;
+  counter-reset: h1\.chapter1 0 h2\.chapter1 0;
+}
+h1 {
+  font-size: 24pt;
+  margin-bottom: 24pt;
+}
+h2 {
+  font-size: 20pt;
+}
+h3 {
+  font-size: 18pt;
+}
+h4 {
+  font-size: 16pt;
+}
+h5 {
+  font-size: 14pt;
+}
+h6 {
+  font-size: 12pt;
+}
+h1.chapter {
+  --autonumber: autonumber;
+  --prefix-size: 129px;
+  --prefix-fixed-size: true;
+  --prefix-gap: 12px;
+  --vertical-spacing: 0px;
+  --list-indent: 0px;
+  counter-reset: h2\.chapter1 0;
+  position: relative;
+  margin-left: calc(var(--list-indent) + var(--prefix-size) + var(--prefix-gap));
+  margin-top: calc(var(--vertical-spacing) / 2);
+}
+h1.chapter:before {
+  counter-increment: h1\.chapter1;
+  content: "Chapter " counter(h1\.chapter1, decimal)" ";
+  text-align: right;
+  position: absolute;
+  left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+  margin-right: var(--prefix-gap);
+  width: var(--prefix-size);
+  overflow: hidden;
+}
+h2.chapter {
+  --autonumber: autonumber;
+  position: relative;
+  --prefix-size: 122px;
+  --prefix-fixed-size: true;
+  --prefix-gap: 4px;
+  --vertical-spacing: 0px;
+  --list-indent: 0px;
+  margin-left: calc(var(--list-indent) + var(--prefix-size) + var(--prefix-gap));
+  margin-top: calc(var(--vertical-spacing) / 2);
+  margin-bottom: calc(var(--vertical-spacing) / 2);
+  counter-reset: h3\.chapter1 0;
+}
+h2.chapter:before {
+  counter-increment: h2\.chapter1;
+  content: "Section " counter(h1\.chapter1, decimal)"." counter(h2\.chapter1, decimal)" ";
+  text-align: right;
+  position: absolute;
+  left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+  margin-right: var(--prefix-gap);
+  width: var(--prefix-size);
+  overflow: hidden;
+}

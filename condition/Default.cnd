@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Department" val="Human_Resources" backcolor="#E57B7B" color="#000000"></prop>
+  <prop att="Department" val="Marketing" backcolor="#39CCCC" color="#000000"></prop>
+  <prop att="Department" val="Software_Development" backcolor="rgba(242, 167, 71, 0.46)" color="#000000"></prop>
+  <prop att="Location" val="Canada" backcolor="rgba(46, 204, 64, 0.30)" color="#000000"></prop>
+  <prop att="Location" val="UK" backcolor="rgba(64, 106, 231, 0.42)" color="#000000"></prop>
+  <prop att="Location" val="US" backcolor="rgba(249, 25, 25, 0.40)" color="#000000"></prop>
+  <prop att="Platform" val="Online-Only" backcolor="#00ff00" color="#000000"></prop>
+  <prop att="Platform" val="Print" backcolor="#ff0000"></prop>
+  <prop att="Platform" val="Video" backcolor="rgba(255, 220, 0, 0.65)" color="#000000"></prop>
+</val>

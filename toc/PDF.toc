@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="booktoc">
+<title></title>
+<frontmatter navtitle="Front Matter" format="html" processing-role="normal">
+  <toc-marker navtitle="Contents" format="html" processing-role="normal"></toc-marker>
+</frontmatter>
+<page href="../contents/Welcome_Aboard_FintecNEWS.htm" format="html" processing-role="normal"></page>
+<book navtitle="FintecFacts Knowledge Base" format="html" processing-role="normal">
+  <page href="../contents/FintecNEWS_Knowledge_Base/Current_Trends_in_Financial_Technology.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/FintecNEWS_Knowledge_Base/How_to_use_this_Knowledge_Base.htm" format="html" processing-role="normal"></page>
+</book>
+<book navtitle="FintecNEWS Marketing" format="html" processing-role="normal">
+  <page href="../contents/FintecNEWS_Marketing/Digital_Wallets.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/FintecNEWS_Marketing/Investment_Monitoring.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/FintecNEWS_Marketing/New_Subscription_Promotion.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/FintecNEWS_Marketing/Online_Banking.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/Travel_Planning_and_Reservations.htm" format="html" processing-role="normal"></page>
+</book>
+<book navtitle="Fintech Terminology" format="html" processing-role="normal">
+  <page href="../contents/Fintech_Terminology/Fintech_Terminology.htm" format="html" processing-role="normal"></page>
+</book>
+<book navtitle="Human Resources" format="html" processing-role="normal">
+  <book navtitle="Training eLearning" format="html" processing-role="normal">
+    <page href="../contents/Human_Resources/Training_eLearning/eLearning_Videos.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Workplace Guidelines" format="html" processing-role="normal">
+    <page href="../contents/Human_Resources/Workplace_Guidelines/Equal_Opportunity_and_Commitment_to_Diversity.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/Human_Resources/Workplace_Guidelines/Harrassment_and_Complaint_Procedur.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/Human_Resources/Workplace_Guidelines/Workplace_Guidelines.htm" format="html" processing-role="normal"></page>
+  </book>
+</book>
+<book navtitle="Software Development" format="html" processing-role="normal">
+  <book navtitle="Online Help Documentation" condition="Platform:Online-Only" format="html" processing-role="normal">
+    <page href="../contents/Software_Development/Online_Help_Documentation/Using_Adobe_RoboHelp.htm" format="html" processing-role="normal"></page>
+  </book>
+  <page href="../contents/Software_Development/ChatBot_Development.htm" format="html" processing-role="normal"></page>
+</book>
+<backmatter navtitle="Back Matter" format="html" processing-role="normal">
+  <index navtitle="Index" format="html" processing-role="normal"></index>
+  <glossary navtitle="Fintec" href="../glossary/Fintec.glo" format="html" processing-role="normal"></glossary>
+</backmatter>
+</map>
